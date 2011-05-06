@@ -1,0 +1,8 @@
+{ 
+	"name": "CouchDB Change Notifications and Update Handler", 
+	"sections": [ 
+		{"section":"changes"},
+		{"section":"replication"},
+		{"section":"update"}
+	]
+}
